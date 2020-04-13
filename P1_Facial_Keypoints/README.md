@@ -4,7 +4,7 @@
 
 # Facial Keypoint Detection
 
-#### Note that this repo is forked from (Udacity)[https://github.com/udacity/P1_Facial_Keypoints]
+#### Note that this repo is forked from [Udacity](https://github.com/udacity/P1_Facial_Keypoints)
 
 ## Project Overview
 
